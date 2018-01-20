@@ -1,4 +1,6 @@
-#remnant files from template
-elements.html
-generic.html
+#jekyll build folder
+_site/
 
+#remnant files from template
+_pages/elements.html
+_pages/generic.html

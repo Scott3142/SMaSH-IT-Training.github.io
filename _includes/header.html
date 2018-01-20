@@ -1,0 +1,9 @@
+<div class="inner">
+  <a href="index.html" class="logo"><strong>{% site.name %}</strong></a>
+  <nav id="nav">
+    {% for link in site.data.navigation %}
+      <a href="{{ link.url }}">{{ link.title }}</a>
+    {% endfor %}
+  </nav>
+  <a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+</div>

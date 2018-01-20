@@ -1,0 +1,10 @@
+title: Company Name
+name: Company description
+homepage: /index.html
+
+include: ["_pages"]
+permalink: /:title/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
