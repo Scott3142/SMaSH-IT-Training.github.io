@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Home
 layout: homepage
 permalink: /index.html
 
@@ -18,7 +18,7 @@ banner-content:
     title: Curriculum Support
     description: Advice to get creative with the curriculum
 
-banner-foter: <a href="#" class="button">Find out more</a>    
+banner-footer: <a href="/courses/" class="button">See available courses...</a>
 
 about-image: <img src="images/author_small.jpg" alt="Scott Morgan - Company Director" />
 about-header: Director
@@ -55,8 +55,6 @@ testimonials-header: Testimonials
         {% endfor %}
 
       </div>
-
-      <a href="/what-we-do/" class="button">See available courses...</a>
 
       <footer>
         {{ page.banner-footer }}
@@ -99,7 +97,7 @@ testimonials-header: Testimonials
               {% endif %}
             {% endfor %}            
           <footer>
-            <a href="learn-more.html#testimonials" class="button">See more</a>
+            <a href="learn-more.html#testimonials" class="button">See more...</a>
           </footer>
         </article>
       </div>

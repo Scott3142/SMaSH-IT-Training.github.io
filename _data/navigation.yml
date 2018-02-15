@@ -1,9 +1,11 @@
 - title: home
   url: /index.html
 
-- title: what-we-do
-  url: /what-we-do/
+- title: about
+  url: /about/
+
+- title: courses
+  url: /courses/
 
 - title: contact
   url: /contact/
-

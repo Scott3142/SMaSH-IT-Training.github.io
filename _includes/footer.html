@@ -1,4 +1,4 @@
-<h3>Get in touch</h3>
+<!--<h3>Get in touch</h3>
 
 <form action="#" method="post">
 
@@ -17,8 +17,8 @@
   <ul class="actions">
     <li><input value="Send Message" class="button alt" type="submit"></li>
   </ul>
-</form>
+</form>-->
 
 <div class="copyright">
-  &copy; {{ site.name }} 2018 | <a href="http://scott3142.com" target="_blank">Created by Scott Morgan</a> | <a href="https://templated.co" target="_blank">Adapted from templated</a> | <a href="http://github.com/scott3142/" target="_blank">Hosted on Github</a> | <a href="http://jekyllrb.com" target="_blank">Powered by Jekyll</a></a>
+  &copy; {{ site.name }} 2018 | <a href="http://scott3142.com" target="_blank">Created by Scott Morgan</a> | <a href="https://templated.co" target="_blank">Adapted from templated</a> | <a href="{% for content in site.data.contact %}{% if content.title == "github" %}{{ content.url }}{% endif %}{% endfor %}" target="_blank">Hosted on Github</a> <span class="icon fa-github"></span> | <a href="http://jekyllrb.com" target="_blank">Powered by Jekyll</a></a>
 </div>
