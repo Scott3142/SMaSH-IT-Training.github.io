@@ -20,6 +20,8 @@
       text: |
         For an A-Level or BTEC student, we focus on creating and developing projects with staff guidance. We will support you to support the students, and let their creativity flourish as they play and experiment with emerging control technologies.
 
+  image: <img class="image fit" src="/images/pi.jpg"/>
+
 - banner-title: Programming
   banner-text: Python, MATLAB, Fortran
   link: /programming/
@@ -40,6 +42,8 @@
       text: |
         Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
 
+  image: <img class="image fit" src="/images/python.png"/>
+
 - banner-title: Web Development
   banner-text: HTML, CSS, JavaScript &amp; PHP
   link: /web-development/
@@ -59,6 +63,8 @@
     - level: A-Level &amp; BTEC
       text: |
         Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+
+  image: <img class="image fit" src="/images/web.jpg"/>
 
 - banner-title: Mobile App Development
   banner-text: Developing mobile applications for business

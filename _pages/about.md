@@ -3,7 +3,7 @@ title: About Us
 layout: subpage
 permalink: /about/
 
-banner-header: About Us
+banner-header: Why We Do This
 banner-text: Philosophy and Interests
 
 philosophy-header: Philosophy
@@ -26,7 +26,7 @@ philosophy:
 
   - header: Thoughts on Science
     text: |
-      <p>We believe that the common subject divides are counter-productive, and we endeavour to demonstrate the applicability of computing and mathematics to all science subjects.
+      <p>We believe that the common subject divides are counter-productive, and endeavour to demonstrate the applicability of computing and mathematics to all science subjects.
 
       <br/><br/>
 
@@ -63,13 +63,21 @@ testimonials-header: Testimonials
         </section>
 
         <section class="6u 12u$(medium)">
-            <h2>{{ page.testimonials-header }}</h2>
-          <!-- Blockquote -->
-            {% for content in site.data.testimonials %}
-              <strong>{{ content.company }} | {{ content.date }}</strong><br/><br/>
-              <blockquote>{{ content.text }}</blockquote>
-            {% endfor %}
+            <img class="image fit" src="/images/si_chemistry.jpg"/>
+            <br>
+            <img class="image fit" src="/images/pi_workshop.jpg"/>
         </section>
+      </div>
+
+      <h2 class="align-center" style="margin-top:5%;">{{ page.testimonials-header }}</h2>
+      <div class="row">
+        <!-- Blockquote -->
+        {% for content in site.data.testimonials %}
+          <section class="6u 12u$(medium)">
+            <strong>{{ content.company }} | {{ content.date }}</strong><br/><br/>
+            <blockquote>{{ content.text }}</blockquote>
+          </section>
+        {% endfor %}
       </div>
 
     </div>

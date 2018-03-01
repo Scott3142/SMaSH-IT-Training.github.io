@@ -28,10 +28,10 @@ intro-text: Our courses are flexible and tailored to your needs, but for guidanc
 
       {% for course in site.data.courses %}
         <section class="3u 6u(medium) 12u$(small)">
-          <h3 class="button special fit"><a href="{{ course.link }}">{{ course.banner-title }}</a></h3>
+          <a href="{{ course.link }}"><h3 class="button special fit">{{ course.banner-title }}</h3></a>
           <div class="box">
-            <p class="more">{{ course.main-text }}
-            <a href="{{ course.link }}">Find out more...</a></p>
+            <p class="more">{{ course.main-text }}</p>
+            <a href="{{ course.link }}">Find out more...</a>
           </div>
         </section>
       {% endfor %}
