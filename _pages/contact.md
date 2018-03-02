@@ -12,7 +12,7 @@ banner-header: Contact Details
       <h2>{{ page.banner-header }}</h2>
     </header>
 
-    <div class="row">
+    <div class="align-center">
     {% for content in site.data.contact %}
       <p style="margin-left:1.25%;"><a class="button small" href="{{ content.url }}" target="_blank">{{ content.title }} : {{ content.text }}</a></p>
     {% endfor %}</div>

@@ -23,24 +23,25 @@
   image: <img class="image fit" src="/images/pi.jpg"/>
 
 - banner-title: Programming
-  banner-text: Python, MATLAB, Fortran
+  banner-text: Python, Scratch, MATLAB, Fortran
   link: /programming/
 
-  main-text: Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+  main-text: This course will enable you and your students to get an insight into a <strong>programming language</strong>. <br/><br/>
+    We offer courses in <strong>Python</strong>, <strong>Scratch</strong>, <strong>Matlab</strong> and <strong>Fortran</strong> and will work with you to tailor the course to your needs. Whether you are looking for an introduction to coding for a KS2 class or an advanced Python development course for A-Level or higher, we are able to meet your needs.
 
   details:
     - level: KS2
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        Introducing pupils to <strong>computational thinking and programming</strong> via Scratch and simple Python concepts, the KS2 version of this course will enable you to combine <strong>play</strong> and experimentation with coding to enhance your students' <strong>digital literacy</strong> skills.
     - level: KS3
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        The KS3 version of this course focuses on programming hardware interfaces using Scratch and Python. We will provide resources and information on how to keep students engaged and create a fun learning environment.
     - level: KS4
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        Developing programming skills further, this course complements the GCSE curriculum and introduces project based Python sessions. We also offer advice and support on how to address the <strong>digital competency framework</strong> in a coherent way across STEM subjects.
     - level: A-Level &amp; BTEC
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        For an A-Level or BTEC student, we focus on creating and developing projects with staff guidance. We will support you to support the students, and let their creativity flourish as they play and experiment with emerging control technologies.
 
   image: <img class="image fit" src="/images/python.png"/>
 
@@ -48,21 +49,18 @@
   banner-text: HTML, CSS, JavaScript &amp; PHP
   link: /web-development/
 
-  main-text: Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+  main-text: This course introduces several aspects of <strong>web design and development</strong>, including the underpinning services required to host, manage and access a secure website and the methods used by developers to manage back-end (server-side) and front-end (client-side) website components. This course is available for <strong>KS3 and above</strong>.
 
   details:
-    - level: KS2
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
     - level: KS3
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        This course will introduce the concepts of web development in a straightforward way. We offer support and guidance on simple and widely-used web design frameworks such as Wordpress to enable your students to design a simple website.
     - level: KS4
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        The KS4 version of this course will introduce simple back-end server protocols while building on design and development principles learned at KS3. We will develop the use of a Raspberry Pi as a server, and briefly discuss online security protocols.
     - level: A-Level &amp; BTEC
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        For an A-Level or BTEC student, we focus on creating and developing projects with staff guidance. We will support you to support the students, and let their creativity flourish as they play and experiment with website design and development frameworks. A strong focus at this level is placed on the creation of a website for a business purpose, and client requirements are discussed in detail.
 
   image: <img class="image fit" src="/images/web.jpg"/>
 
@@ -70,83 +68,67 @@
   banner-text: Developing mobile applications for business
   link: /mobile-apps/
 
-  main-text: Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+  main-text: |
+    This course investigates the characteristics and uses of <strong>mobile apps</strong>, enabling you to learn how mobile apps are developed. We will assist you to <strong>design, develop, test and review</strong> your own mobile app. <br><br>
+
+    Since mobile application development is a tricky business, the emphasis in this unit is on you integrating <strong>predefined</strong> programs/code snippets with ready-made and original assets by using some original code. This course is available for <strong>KS3 and above</strong>.
 
   details:
-    - level: KS2
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
     - level: KS3
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        This course will introduce the concepts of mobile app development in a straightforward way. We offer support and guidance on simple and widely-used app design frameworks such as <a href="http://appinventor.mit.edu" target="_blank">MIT App Inventor</a> to enable your students to design a simple mobile app.
     - level: KS4
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        The KS4 version of this course will discuss more advanced computing protocols while building on design and development principles learned at KS3. We use MIT App Inventor to facilitate <strong>play</strong> and experimentation while you and your students explore their own learning. A focus at this stage is on client requirements and building an app for a business.
     - level: A-Level &amp; BTEC
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        For an A-Level or BTEC student, we focus on creating and developing projects with staff guidance. We will support you to support the students, and let their creativity flourish as they play and experiment with mobile app design and development frameworks. A strong focus at this level is placed on the creation of a mobile application for a business purpose, and client requirements are discussed in detail.
 
-- banner-title: Cyber Security
-  banner-text: Algorithms, Best Practice &amp; Methodologies
-  link: /cyber-security/
+  image: <img class="image fit" src="/images/android.png"/>
 
-  main-text: Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
-
-  details:
-    - level: KS2
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
-    - level: KS3
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
-    - level: KS4
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
-    - level: A-Level &amp; BTEC
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
-
-
-- banner-title: Computing for Mathematics
+- banner-title: Maths &amp; Computing
   banner-text: Computational Thinking, Algorithms, Logic
-  link: /computing-for-mathematics/
+  link: /maths-and-computing/
 
-  main-text: Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+  main-text: Mathematics and computing are inexorably linked through the application of <strong>logic</strong> and <strong>number theory</strong>. This course introduces the mathematical principles and theory that underpin the computing curriculum. We appreciate that students traditionally find mathematics <strong>less interesting</strong> than the rest of computing, so this course will enable you to see the wider applications of mathematics and their <strong>fundamental applicability</strong> to computing. This course is available for <strong>A-Level/BTEC and above</strong>.
 
   details:
-    - level: KS2
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
-    - level: KS3
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
-    - level: KS4
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
     - level: A-Level &amp; BTEC
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        For an A-Level or BTEC student, we focus on creating and developing projects with staff guidance. We will support you to support the students, and let their creativity flourish as they play and experiment with mathematical ideas and computing. We will introduce mathematics in a fun, engaging way far removed from the traditional style of mathematics teaching.
+
+  image: <img class="image fit" src="/images/maths.jpg"/>
 
 - banner-title: Software Development
   banner-text: Software Lifecycles &amp; Methodologies, Best Practice, Version Control
   link: /software-development/
 
-  main-text: Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+  main-text: |
+    One of the major ideas in the software industry at the moment is the necessity for <strong>open-source</strong> software, and we commit as a company to open-source resources forever. This course will introduce the concept of open-source, and other commonly used licensing and copyright practises. <br><br>
+
+     We will also discuss version-control and software development best-practises to enable your students to apply for a software engineer position with a sense of the important ideas in the field. Because of the nature of the content, this course is currently offered at <strong>A-Level/BTEC and above</strong>, although the ideas would be applicable to all software, application and website development techniques across the curriculum.
 
   details:
-    - level: KS2
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
-    - level: KS3
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
-    - level: KS4
-      text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
     - level: A-Level &amp; BTEC
       text: |
-        Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+        This course focuses on software development best-practise, enabling students to understand and appreciate the current state of the industry. We will equip students with current knowledge to help them in interviews and University application procedures. A focus will be on programming,and the course involves hands-on software development, with guidance about best-practise being offered by the tutor.
+
+  image: <img class="image fit" src="/images/github.jpg"/>
+
+- banner-title: Cyber Security (Beta)
+  banner-text: Algorithms, Best Practice &amp; Methodologies
+  link: /cyber-security/
+
+  main-text: Currently in beta, this course explores some basic ideas about <strong>cyber security</strong>, including the mathematics of <strong>RSA encryption</strong> and some common <strong>hacking techniques</strong>. We will advise you on the practicalities of carrying out hacking in a <strong>controlled environment</strong> at your institution, and use a vulnerable Raspberry Pi to enable you and your students to have-a-go at cracking <strong>weak passwords</strong> and <strong>encryption keys</strong>. This course is available for <strong>A-Level/BTEC and above</strong>.
+
+  details:
+    - level: A-Level &amp; BTEC
+      text: |
+        For an A-Level or BTEC student, we focus on creating and developing projects with staff guidance. We will support you to support the students, and let their creativity flourish as they play and experiment with cyber security ideas.
+
+  image: <img class="image fit" src="/images/cyber.jpg"/>
 
 - banner-title: Other
   link: /contact/
-  main-text: Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
+  show: 0
+  main-text: We are open to other ideas you may have and are happy to discuss a <strong>bespoke course</strong> at your institution. Please <a href="/contact/">contact us</a> to discuss further.

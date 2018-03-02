@@ -1,7 +1,7 @@
 ---
-title: Computing for Mathematics
+title: Maths &amp; Computing
 layout: subpage
-permalink: /computing-for-mathematics/
+permalink: /maths-and-computing/
 ---
 
 <!-- Main -->

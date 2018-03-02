@@ -1,0 +1,51 @@
+events:
+  - title: Full STEAM Ahead
+    text: |
+      On June 28th 2017, I was involved in the Cardiff SIAM-IMA Student Chapter ‘Full STEAM Ahead’ event, open to secondary school and FE College students, PhD students and staff. The event consisted of three workshops aimed at inspiring students to engage in STEM subjects, and opened with a short address by Sian Ashton of the STEM Ambassador scheme, a national endeavour to inspire young people to continue into STEM careers.<br><br>
+
+      <span class="image fit"><img src="/images/fullSTEAMahead2.jpg"/></span><br>
+
+      The workshops on the day were delivered by a combination of PGR Students and industry experts, and consisted of -
+
+      <ul>
+        <li><strong>Robotics (Led by Emotion Robotics)</strong><br>
+          Carl Clement of Emotion Robotics delivered a workshop based around artificial intelligence and automation using advanced humanoid robots, Pepper and NAO. Everyone was captivated and there were plenty of amazed faces in the crowd – they really do need to be seen to be believed!</li><br>
+
+        <li><strong>Physical Computing with Raspberry Pi (Led by Luke Smallman)</strong><br>
+          Bridgend College, in partnership with Sony UKTec provided Raspberry Pi computers and Pi cameras for the event, and with resources from the Raspberry Pi Foundation’s ‘Picademy’, Luke delivered a simple introduction to programming hardware devices with Python.</li><br>
+
+        <li><strong>3D Printing (Led by Alex Safar & Danny Groves)</strong><br>
+          Students had the opportunity to design and print their own 3D fidget spinners using the freely available browser-based software ‘Onshape’. There was a prize for the best design, submitted on the day and printed later by Cardiff University's Engineering Department. Each student also received a 3D printed ‘gyro’ keyring memento of the event to take away with them.</li><br>
+      </ul>
+
+      <span class="image fit"><img class="image fit" src="/images/fullSTEAMahead.jpg"/></span>
+
+      <strong><em>Scott Morgan | Mar 2018</em></strong>
+    url: /full-steam-ahead/
+    author: Scott Morgan
+
+  - title: SMILE Pi &amp; Mash
+    text: |
+      The Pi and Mash event was the follow up to the SMILE Technology Workshops and featured Year 5 and 6 children from 4 local primary schools - St. Mary & St. Partick, Litchard, Croesty and Brynmenyn. There were robots, Raspberry Pis, Makey Makey kits and LEGO and everyone had a great time experimenting with emerging technologies and creating interesting gadgets. The schools had been given a competition to design a robot chassis and there were some excellent designs submitted, including a flying iron, a unicorn, a flipper and a high-heeled shoe!<br><br>
+
+      <span class="image fit"><img src="/images/pi-and-mash-group.jpg"/></span><br>
+
+      The Raspberry Pi session featured physical computing with simple motor control using gpiozero and resources from Picademy, robot rally cars using the CamJam Edukits and SonicPi. We finished off with a race around the track which was won by Litchard!<br><br>
+
+      <span class="image fit"><img src="/images/pi-and-mash.jpg"/></span><br>
+
+      <strong><em>Scott Morgan | Mar 2018</em></strong>
+    url: /smile-pi-and-mash/
+    author: Scott Morgan
+
+  - title: SMILE Technology Workshop
+    text: |
+      Between January 17th and 20th, I was involved in the long-running SMILE Technology Workshops at Bridgend College. The format of the week was to split Year 5 and 6 children from 4 local primary schools; St. Mary & St. Partick, Litchard, Croesty and Brynmenyn into several groups and run parallel sessions with interesting technology. We used Raspberry Pis, LEGO Mindstorms and Makey Makey to deliver a range of sessions based at giving the children a taste of fun and interesing technology. Students of the college ran the workshops, which were both highly successful and extremely professional. <br><br>
+
+      <span class="image fit"><img src="/images/robot_cars.jpg"/></span><br>
+
+      The Raspberry Pi Session involved Minecraft, Python and robotics using the CamJam Edukit 3 sets and code written by PiCymru. We even had a selfie booth powered by a Raspberry Pi and the children designed their own robot chassis which are now in production ready for the SMILE Pi and Mash event in April! All in all, this was a great day which hopefully inspired a future cohort of STEAM practitioners. The same event will run next year, with more schools, new technologies and new ideas. Watch this space! <br><br>
+
+      <strong><em>Scott Morgan | Mar 2018</em></strong>
+    url: /smile-technology-workshop/
+    author: Scott Morgan

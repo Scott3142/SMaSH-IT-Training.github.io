@@ -3,7 +3,7 @@ title: Home
 layout: homepage
 permalink: /index.html
 
-banner-header: Training and Development in Computing
+banner-header: Training and Development for Computing
 
 banner-content:
   - icon: <span class="icon fa-file-code-o"></span>
@@ -25,7 +25,7 @@ lower-banner-content:
     title: Student workshops
     description: Activities for students of all ages
 
-lower-banner-footer: <a href="/courses/student/" class="button">Find out more...</a>
+lower-banner-footer: <a href="/courses#student" class="button">Find out more...</a>
 
 about-image: <img src="images/author_small.jpg" alt="Scott Morgan - Company Director" />
 about-header: Director
@@ -125,7 +125,7 @@ testimonials-header: Testimonials
               {% endif %}
             {% endfor %}
           <footer>
-            <a href="learn-more.html#testimonials" class="button">See more...</a>
+            <a href="/about#testimonials" class="button">See more...</a>
           </footer>
         </article>
       </div>
