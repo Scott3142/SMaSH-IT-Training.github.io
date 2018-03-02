@@ -1,7 +1,7 @@
 ---
 title: SMILE Technology Workshop
 layout: subpage
-permalink: /smile-technology-workshop.html
+permalink: /smile-technology-workshop/
 ---
 
 <!-- Main -->
