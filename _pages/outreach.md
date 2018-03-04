@@ -7,7 +7,7 @@ banner-header: Outreach
 banner-text: Community and Educational Projects
 
 intro-header: Activities
-intro-text: We, either as a company or as individuals, have been involved in many projects and initiatives in the past, and are always interested in how we can help local schools and communities who may not otherwise have access to high-quality educational resources or oppotunities. Working with our partners and in keeping with our philosophy and mission, we offer several <strong>free opportunities</strong> for students. A selection of the events we've been involved in are below.
+intro-text: We, either as a company or as individuals, have been involved in many projects and initiatives in the past, and are always interested in how we can help local schools and communities who may not otherwise have access to high-quality educational resources or opportunities. Working with our partners and in keeping with our philosophy and mission, we offer several <strong>free opportunities</strong> for students. A selection of the events we've been involved in are below.
 
 ---
 

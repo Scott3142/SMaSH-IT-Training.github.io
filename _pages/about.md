@@ -10,7 +10,7 @@ philosophy-header: Philosophy
 philosophy-row1:
   - header: Students First
     text: |
-      <p>Students are at the heart of what we do. Professional development for staff does not work without carefully conisdering the needs of each individual learner. A technique that might work for one school or one age group might not work at all for another.
+      <p>Students are at the heart of what we do. Professional development for staff does not work without carefully considering the needs of each individual learner. A technique that might work for one school or one age group might not work at all for another.
 
       <br/><br/>
 
@@ -56,7 +56,7 @@ director:
 
     <br/><br/>
 
-    I am particulary interested in learners from disadvantaged backgrounds, and those who might not necessarily be able to get the help and support they deserve for reasons outside of their control. I welcome any thoughts, advice and comments at any time and I am always looking for ways to improve the design and delivery of these courses. <br/><br/> <strong>Scott Morgan</strong></blockquote>
+    I am particularly interested in learners from disadvantaged backgrounds, and those who might not necessarily be able to get the help and support they deserve for reasons outside of their control. I welcome any thoughts, advice and comments at any time and I am always looking for ways to improve the design and delivery of these courses. <br/><br/> <strong>Scott Morgan</strong></blockquote>
 
 testimonials-header: Testimonials
 
