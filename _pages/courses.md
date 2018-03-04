@@ -2,6 +2,7 @@
 title: Courses
 layout: subpage
 permalink: /courses/
+description: Page for description of teacher training and development courses offered by SMaSH-IT Training in the Cardiff, Bridgend and South Wales regions.
 
 banner-header: What We Do
 banner-text: Training Courses and CPD

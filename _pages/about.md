@@ -2,6 +2,7 @@
 title: About Us
 layout: subpage
 permalink: /about/
+description: Our philosophy and motivations for the work that we do. Students First, Thoughts on Science, Widening Access and Commitment to Open Source. 
 
 banner-header: Why We Do This
 banner-text: Philosophy and Interests

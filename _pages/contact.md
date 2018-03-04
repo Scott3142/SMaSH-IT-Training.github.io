@@ -2,6 +2,7 @@
 title: Contact Us
 layout: contact
 permalink: /contact/
+description: Page for contact details for SMaSH-IT Training
 
 banner-header: Contact Details
 ---

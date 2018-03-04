@@ -2,6 +2,7 @@
 title: Outreach
 layout: subpage
 permalink: /outreach/
+description: Our previous outreach education and community projects supporting our mission. Working with our partners and in keeping with our philosophy and mission, we offer several free opportunities for students.
 
 banner-header: Outreach
 banner-text: Community and Educational Projects
