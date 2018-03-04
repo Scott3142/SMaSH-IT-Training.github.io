@@ -16,7 +16,7 @@ banner-content:
 
   - icon: <span class="icon fa-file-code-o"></span>
     title: Curriculum Support
-    description: Advice to get creative with the curriculum
+    description: Getting creative with the curriculum
 
 banner-footer: <a href="/courses/" class="button">See available courses...</a>
 
