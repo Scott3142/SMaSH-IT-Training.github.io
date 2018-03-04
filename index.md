@@ -8,7 +8,7 @@ banner-header: Computing &amp; Emerging Technologies
 banner-content:
   - icon: <span class="icon fa-file-code-o"></span>
     title: One-to-one Training
-    description: Tailored training delivered to your needs
+    description: Tailored training
 
   - icon: <span class="icon fa-code-fork"></span>
     title: Group Workshops
@@ -16,7 +16,7 @@ banner-content:
 
   - icon: <span class="icon fa-file-code-o"></span>
     title: Curriculum Support
-    description: Getting creative with the curriculum
+    description: Advice to get
 
 banner-footer: <a href="/courses/" class="button">See available courses...</a>
 
