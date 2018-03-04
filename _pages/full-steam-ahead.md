@@ -1,7 +1,7 @@
 ---
 title: Full STEAM Ahead
 layout: subpage
-permalink: /full-steam-ahead.html
+permalink: /full-steam-ahead/
 ---
 
 <!-- Main -->
