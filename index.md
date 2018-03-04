@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: homepage
-permalink: /index.html
+permalink: /
 
 banner-header: Computing &amp; Emerging Technologies
 
