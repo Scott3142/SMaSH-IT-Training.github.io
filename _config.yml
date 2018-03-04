@@ -1,6 +1,16 @@
 title: SMaSH-IT Training
-name: SMaSH-IT Training 
+name: SMaSH-IT Training
 homepage: /index.html
+description: We offer training and professional development for computing and emerging technologies in Cardiff, Bridgend and the South Wales region. Specialising in one-to one sessions, curriculum support and advice on digital competence framework, we offer a high quality bespoke training service which encompasses Raspberry Pi, physical computing, BBC Micro:bit, programming, web development and cyber security.
+url: https://smash-it.co.uk
+author:
+  twitter: scott3142
+  url: http://scott3142.com
+
+social:
+  name: SMaSH-IT training
+  links:
+    https://github.com/SMaSH-IT-Training/
 
 include: ["_pages"]
 permalink: /:title/
