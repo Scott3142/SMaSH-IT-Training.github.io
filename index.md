@@ -3,7 +3,7 @@ title: Home
 layout: homepage
 permalink: /index.html
 
-banner-header: Training and Development for Computing
+banner-header: Computing &amp; Emerging Technologies
 
 banner-content:
   - icon: <span class="icon fa-file-code-o"></span>
