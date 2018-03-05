@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Professional Development &amp; Training for Computing &amp; Emerging Technologies
 layout: homepage
 permalink: /
 
